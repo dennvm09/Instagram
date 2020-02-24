@@ -46,7 +46,7 @@ font-weight: bold;
 	float: right;
 }
 
-.headerHistory{
+.header-history{
 	width: 350px;
 	height: 700px;
     margin: 50px auto;
@@ -59,7 +59,7 @@ font-weight: bold;
 float: right;
 }
 
-.headerPhone{
+.header-phone{
 
 	width: 200px;
 	height: 500px;
@@ -82,11 +82,11 @@ float: right;
 	margin: 0 auto 5px;
 }
 
-.wrapper .header .form .input_field{
+.wrapper .header .form .input-field{
 	margin-bottom: 5px;
 }
 
-.wrapper .header .form .input_field .input{
+.wrapper .header .form .input-field .input{
 	width: 100%;
 	background: #fafafa;
 	border: 1px solid #efefef;
@@ -96,24 +96,24 @@ float: right;
 	padding: 10px;
 }
 
-.wrapper .header .form .input_field .input:focus{
-	border: 1px solid #b2b2b2;
+.wrapper .header .form .input-field .input:focus{
+	border: 1px solid #c2c2c2c9;
 }
 
-.header1{
+.header-1{
     color: #262626;
     opacity: 0.5;
     
 
 }
 
-.header2{
+.header-2{
 	margin: 0 auto 20px;
 	color: #262626;
     opacity: 0.5;
 }
 
-.wrapper .header .form .btn{
+.wrapper .header .form .btnRegister{
 	margin: 10px 0;
 	background-color: #3897f0;
     border: 1px solid #3897f0;
@@ -135,7 +135,7 @@ float: right;
 
 }
 
-.wrapper .header .form .btn a{
+.wrapper .header .form .btnRegister a{
 	color: #ffffff;
 	display: block;
 }
@@ -197,16 +197,16 @@ float: right;
 	color: #3897f0;
 }
 
-.wrapper .apps{
+.wrapper .apps-to-download{
 	text-align: center;
 	color: #262626;
 }
 
-.wrapper .apps p{
+.wrapper .apps-to-download p{
 	margin-bottom: 20px;
 }
 
-.wrapper .apps a img{
+.wrapper .apps-to-download a img{
 	width: 135px;
 	height: 40px;
 	margin: 0 5px;
